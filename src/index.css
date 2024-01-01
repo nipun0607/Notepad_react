@@ -8,7 +8,7 @@
   --white: #F7F7FF;
   --black: #070600;
   --gray: #69626D;
-  --blue: #3C91E6;
+  --blue: #3ce642;
 }
 body{
   min-height: 100vh;
@@ -125,7 +125,7 @@ body{
 }
 .note-list .selected-note{
   color: var(--white);
-  background: var(--blue);
+  background: var(--lightgreen);
   font-size: 1.25rem;
   font-weight: 700;
 }
